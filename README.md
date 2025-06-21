@@ -1,10 +1,5 @@
 # Computer Vision and Deep Learning Projects
 
-## Author: Peter Chika Ozo-ogueji
-**Course:** CSC-696 Deep Learning in Computer Vision  
-**Institution:** American University  
----
-
 ## 🎯 Project Portfolio Overview
 
 This comprehensive repository showcases advanced computer vision implementations across four major domains:
